@@ -1,0 +1,12 @@
+* {
+    background-color: black;
+    padding-left: 7em;
+    padding-right: 7em;
+}
+
+img {
+    width: 50px;
+    height: 50px;
+    padding-left: 2em;
+    padding-top: 1em;
+}
