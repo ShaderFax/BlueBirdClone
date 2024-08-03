@@ -1,12 +1,15 @@
 * {
     background-color: black;
-    padding-left: 7em;
-    padding-right: 7em;
 }
 
-img {
+.logo {
     width: 50px;
     height: 50px;
-    padding-left: 2em;
-    padding-top: 1em;
+    border-radius: 28px;
+    border-color:white;
+    border-width: 2px;
+    border-style: solid;
+    position: relative;
+    left: 250px;
+    top: 20px;
 }
