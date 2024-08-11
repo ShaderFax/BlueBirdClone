@@ -15,4 +15,37 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    margin: 8em;
+}
+
+.input-container {
+    position:relative;
+    display: grid;
+    padding: 1em;
+}
+
+.login-user, .login-password {
+    color: white;
+    margin: 0.5em;
+    height: 25px;
+    border-radius: 10px;
+    background-color: rgb(54, 54, 54);
+}
+
+.signup-line {
+    color: grey;
+    width: 200px;
+    margin-top: 1.5em;
+}
+
+.signup-text {
+    color: white;
+}
+
+.signup-user, .signup-email, .signup-name, .signup-password {
+    color: white;
+    margin: 0.5em;
+    height: 25px;
+    border-radius: 10px;
+    background-color: rgb(54, 54, 54);
 }
