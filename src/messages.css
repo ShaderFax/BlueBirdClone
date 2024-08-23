@@ -13,6 +13,7 @@
 }
 
 /* Body */
+/* Left menu */
 
 .left-menu {
     width: 50px;
@@ -39,4 +40,33 @@
     text-decoration: none;
     color: white;
     background-color: transparent;
+}
+
+/* messages style section */
+
+.vertical-line-one {
+    width: 100%;
+    rotate: 90deg;
+    background-color: rgb(31, 31, 31);
+    position: relative;
+    top: 27px;
+    left: -350px;
+}
+
+.vertical-line-two {
+    width: 100%;
+    rotate: 90deg;
+    background-color: rgb(31, 31, 31);
+    position: relative;
+    top: 27px;
+
+}
+
+.vertical-line-three {
+    width: 100%;
+    rotate: 90deg;
+    background-color: rgb(31, 31, 31);
+    position: relative;
+    top: 27px;
+    left: 650px;
 }
